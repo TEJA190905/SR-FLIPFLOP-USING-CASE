@@ -75,8 +75,10 @@ endmodule
 
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](./images/rtl.png)
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](./images/output.png)
 **RESULTS**
 
