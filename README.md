@@ -74,11 +74,10 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-04-16 140854](https://github.com/Soundaryajothi/SR-FLIPFLOP-USING-CASE/assets/144870490/c3d9f485-9775-49aa-8f6f-768da62793bb)
-
+![322769247-c3d9f485-9775-49aa-8f6f-768da62793bb](https://github.com/TEJA190905/SR-FLIPFLOP-USING-CASE/assets/167788543/4a332198-c427-4a78-9632-78575019728f)
 
 **OUTPUT**
-![Screenshot 2024-04-16 140433](https://github.com/Soundaryajothi/SR-FLIPFLOP-USING-CASE/assets/144870490/4d2b2b46-b63e-4ed7-a573-857def55d1f8)
+![322768159-4d2b2b46-b63e-4ed7-a573-857def55d1f8](https://github.com/TEJA190905/SR-FLIPFLOP-USING-CASE/assets/167788543/064148d0-ded4-4cad-a08e-d4cc17ccbc09)
 
 
 **RESULTS**
